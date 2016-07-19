@@ -1,0 +1,14 @@
+layout_spectrum: 0.9957842
+typography_spectrum: 0.8332268
+color:
+  saturation: 0.8404659
+  lightness: 0.8640441
+  brandStrength: 0.6313022
+  brandColors:
+    - '#5B5C60'
+    - '#3C3C3C'
+    - '#C2C0C1'
+    - '#E7E8ED'
+    - '#1A1819'
+  rhythmicContrast: 0.4495808
+name: HumberABC
