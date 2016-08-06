@@ -1,14 +1,26 @@
-layout_spectrum: 0.9957842
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8332268
 color:
-  saturation: 0.8404659
-  lightness: 0.8640441
-  brandStrength: 0.6313022
+  saturation: 0.7951096
+  brandStrength: 0.4047218
+  lightness: 0.8642496
   brandColors:
-    - '#5B5C60'
-    - '#3C3C3C'
-    - '#C2C0C1'
-    - '#E7E8ED'
-    - '#1A1819'
-  rhythmicContrast: 0.4495808
+    - '#FFFFFF'
+    - '#BCBCBE'
+    - '#97989E'
+    - '#1A1610'
+    - '#728478'
+  rhythmicContrast: 0.7765599
+layout_spectrum: 0.9957842
 name: HumberABC
